@@ -24,7 +24,4 @@
 - use QR Code for determining "teams" 
 - use it in play to scan for blue or red arm bands.
 
-
-
-
 """
