@@ -7,7 +7,7 @@
 # Geolocation
 # Stepper motors for autonomy (pan/ tilt) and motion (drone or tank)
 # wireless controllers(?)
-# Bluetooth
+# Utilize bluetooth for updates from user a well as modes like platoon for multiple units to act in unison.
 # wifi dongle
 # battery monitor- through exsiting hardware? How to notify- light/ beeping text/ email?
 # Cellular/ sim for texting/ updating (twilio)
