@@ -8,7 +8,7 @@
 # Stepper motors for autonomy (pan/ tilt) and motion (drone or tank)
 # wireless controllers(?)
 # Utilize bluetooth for updates from user a well as modes like platoon for multiple units to act in unison.
-# wifi dongle
+# wifi dongle- eventually onboard hardware
 # battery/ power monitor- through exsiting hardware? How to notify- light/ beeping text/ email?
 # Cellular/ sim for texting/ updating (twilio)
 # Capture/ deactivation switch
